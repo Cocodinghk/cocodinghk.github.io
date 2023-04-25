@@ -1,1 +1,1 @@
-"# decayyyy-github.io" 
+"# decayyyy.github.io" 
